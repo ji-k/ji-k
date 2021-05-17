@@ -1,6 +1,6 @@
-### Hey, I'm Ji! 👋
+# Hey, I'm Ji! 👋
 
-# Reach out to me via
+## Reach out to me via
 Clubhouse: @ji | [LinkedIn](https://www.linkedin.com/in/jikyung/) | [AngelList](https://www.angel.co/u/jikyung/)
 
 <!--
