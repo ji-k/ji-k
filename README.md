@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey, I'm Ji! 👋
+
+# Reach out to me via
+Clubhouse: @ji | [LinkedIn](https://www.linkedin.com/in/jikyung/) | [AngelList](https://www.angel.co/u/jikyung/)
 
 <!--
 **ji-k/ji-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
