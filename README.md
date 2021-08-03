@@ -1,7 +1,7 @@
 
 |       Technical Competencies        |                                      Description                                       |
 | :---------------------------------: | :------------------------------------------------------------------------------------: |
-|              Languages              |                           JavaScript, Python, HTML, CSS                                |
+|              Languages              |                           JavaScript, Python                                           |
 |            Technologies             |             Nodejs, AJAX, XML, JSON                                                    |
 |              Database               |                   PostgreSQL, Sequelize, SQLAlchemy                                    |
 |         Scripting Languages         |                         React-Redux, AngularJS, J Query, Ajax                          |
