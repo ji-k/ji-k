@@ -9,7 +9,7 @@
 | Service Oriented Architecture (SOA) |                                       REST                                             |
 |        Design Methodologies         |        Object Oriented Methodologies, Agile, Scrum, TDD, Waterfall                     |
 |             Web Servers             |                  Flask, Express, Internet Information Services (IIS)                   |
-
+|          Operating System           |              MacOS Big Sur 11.4, Windows XP/Vista, Windows 7/10                      |
 
 
 
