@@ -3,13 +3,13 @@
 | :---------------------------------: | :------------------------------------------------------------------------------------: |
 |              Languages              |                           JavaScript, Python                                           |
 |            Technologies             |             Nodejs, AJAX, XML, JSON                                                    |
-|              Database               |                   PostgresQL, Sequelize                                                |
+|              Database               |                   PostgreSQL, Sequelize, SQLAlchemy                                    |
 |         Scripting Languages         |                         React-Redux, AngularJS, J Query, Ajax                          |
 |         Source Code Control         |                  Git/Github                                                            |
 | Service Oriented Architecture (SOA) |                                       REST                                             |
 |        Design Methodologies         |        Object Oriented Methodologies, Agile, Scrum, TDD, Waterfall                     |
 |             Web Servers             |                  Flask, Express, Internet Information Services (IIS)                   |
-|          Operating System           |              MacOS Big Sur 11.4, Windows XP/Vista, Windows 7/10                      |
+|          Operating System           |              MacOS Big Sur 11.4, Windows XP/Vista, Windows 7/10                        |
 
 
 
