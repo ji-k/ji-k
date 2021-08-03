@@ -1,3 +1,4 @@
+
 |       Technical Competencies        |                                      Description                                       |
 | :---------------------------------: | :------------------------------------------------------------------------------------: |
 |              Languages              |                           JavaScript, Python                                           |
@@ -5,14 +6,29 @@
 |              Database               |                   PostgresQL, Sequelize                                                |
 |         Scripting Languages         |                         React-Redux, AngularJS, J Query, Ajax                          |
 |         Source Code Control         |                  Git/Github                                                            |
-| Service Oriented Architecture (SOA) |         REST          |
-|        Design Methodologies         |        Object Oriented Methodologies, Agile, Scrum, TDD, Waterfall         |
+| Service Oriented Architecture (SOA) |                                       REST                                             |
+|        Design Methodologies         |        Object Oriented Methodologies, Agile, Scrum, TDD, Waterfall                     |
 |             Web Servers             |                  Flask, Express, Internet Information Services (IIS)                   |
-|          Operating System           | Windows XP/Vista, Windows 7/8/10 |
+|          Operating System           |                       Windows XP/Vista, Windows 7/8/10                                 |
 
 
 
 
+<!--# Hey, I'm Ji! 👋
+## PROJECTS
+
+<p align="center">
+### PokéProbe by Dugon
+  </p>
+  
+<p align="center">
+![PokeProbe](https://github.com/jyih/pokeprobe/blob/main/public/images/pokeprobe-logo.png) <br>
+[Live](https://pokeprobe.herokuapp.com/) | [GitHub](https://github.com/jyih/pokeprobe)
+ </p>
+
+### Monospace
+![PokeProbe](https://github.com/ji-k/monospace-logo.png) <br>
+[Live](https://mono-space.herokuapp.com/) | [GitHub](https://github.com/ji-k/monospace)
 
 
 <!--# Hey, I'm Ji! 👋
