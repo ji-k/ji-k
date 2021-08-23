@@ -8,8 +8,8 @@
 |         Source Code Control         |                  Git/Github                                                            |
 | Service Oriented Architecture (SOA) |                                       REST                                             |
 |        Design Methodologies         |        Object Oriented Methodologies, Agile, Scrum, TDD, Waterfall                     |
-|             Web Servers             |                  Flask, Express, Internet Information Services (IIS)                   |
-|          Operating Systems          |              MacOS Big Sur, Windows XP/Vista, Windows 7/10                        |
+|             Frameworks              |                  Flask, Express                                                        |
+|          Operating Systems          |              MacOS Big Sur, Windows XP/Vista, Windows 7/10                             |
 
 
 
