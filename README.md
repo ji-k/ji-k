@@ -4,7 +4,7 @@
 |              Languages              |                           JavaScript, Python                                           |
 |            Technologies             |             Nodejs, AJAX, XML, JSON                                                    |
 |              Database               |                   PostgreSQL, Sequelize, SQLAlchemy                                    |
-|         Scripting Languages         |                         React-Redux, AngularJS, J Query, Ajax                          |
+|         Libraries / Scripting Languages        |                         React, React-Redux, J Query                         |
 |         Source Code Control         |                  Git/Github                                                            |
 | Service Oriented Architecture (SOA) |                                       REST                                             |
 |        Design Methodologies         |        Object Oriented Methodologies, Agile, Scrum, TDD, Waterfall                     |
