@@ -12,7 +12,7 @@
 |          Operating Systems          |              MacOS Big Sur, Windows XP/Vista, Windows 7/10                             |
 
 
-[Portfolio](https://www.ji-k.github.io) | [LinkedIn](https://www.linkedin.com/in/jikyung/) 
+[Portfolio](https://ji-k.github.io/) | [LinkedIn](https://www.linkedin.com/in/jikyung/) 
 
 <!--# Hey, I'm Ji! 👋
 ## PROJECTS
