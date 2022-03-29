@@ -15,7 +15,7 @@
 [Portfolio](https://ji-k.github.io/) | [LinkedIn](https://www.linkedin.com/in/jikyung/) 
 
 <!--# Hey, I'm Ji! 👋 
-## PROJECTS
+## PROJECTS 
 
 <p align="center">
 ### PokéProbe by Dugon
