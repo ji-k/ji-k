@@ -1,4 +1,4 @@
-
+<!--
 |       Technical Competencies        |                                      Description                                       |
 | :---------------------------------: | :------------------------------------------------------------------------------------: |
 |              Languages              |                           JavaScript, Python                                           |
@@ -14,7 +14,7 @@
 
 [Portfolio](https://ji-k.github.io/) | [LinkedIn](https://www.linkedin.com/in/jikyung/) 
 
-<!--# Hey, I'm Ji! 👋 
+# Hey, I'm Ji! 👋 
 ## PROJECTS 
 
 <p align="center">
